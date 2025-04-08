@@ -1,5 +1,11 @@
-@import url("../src/fonts.googleapis.com/css2?family=Quicksand:wght@400;700&family=Roboto+Condensed:wght@400;700&display=swap");
+@import url("../src/fonts.googleapis.com/css2?family=Quicksand");
 
+@font-face {
+  font-family: 'Quicksand';
+  src: url('./Quicksand.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
 * {
   box-sizing: border-box;
 }
