@@ -1,7 +1,7 @@
 .quicksand-<uniquifier> {
   font-family: "Quicksand", sans-serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-weight: <300>;
   font-style: normal;
 * {
   box-sizing: border-box;
