@@ -1,11 +1,8 @@
-@import url("../src/Quicksand");
-
-@font-face {
-  font-family: 'Quicksand';
-  src: url('./Quicksand.woff2') format('woff2');
-  font-weight: 400;
+.quicksand-<uniquifier> {
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
   font-style: normal;
-}
 * {
   box-sizing: border-box;
 }
